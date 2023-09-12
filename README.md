@@ -86,16 +86,20 @@ Done!:</br>
 - Enter the urls to be scrapped 
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/bbc2916d-9ec7-4e19-8b25-6c8671a61b29)
 
-- Profile scraping code 
+- Profile scraping code
+  
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/6890394d-1e05-49f8-b364-b360aa8b3386)
 
 - Profile scraping code continuation
+  
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/cf721d12-dc84-4bec-80da-54b27ccd8fd1)
 
 - Profile scraping code continuation
+  
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/eec6f673-6f91-4656-9123-8faa8db72efe)
 
 - Profile scraping code continuation
+  
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/4796b94e-36be-48d5-bc63-e34e07267a93)
 
 - Code to see how many links have been completed and saving the scrapped data to a csv file

@@ -48,6 +48,7 @@ Done!:</br>
 
 
 - Importing the necessary Libraries
+
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/9520baef-1b89-43d7-80c6-eaa7cc00927c)
 
 - Function to introduce a random delay time and function to scrape a given Twitter profile
@@ -70,6 +71,40 @@ Done!:</br>
 2. Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb
 - Code file for scraping linkedin profile data and related metrices.
 - [Go to File↗️](https://github.com/ozibook/DBPC-Lead-Generation/blob/main/Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb)
+  
+<details>
+<summary>Code Explanation👨‍💻</summary>
+<br>
+
+
+- Importing the necessary Libraries
+
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/6c424a24-5d9c-4ffe-aa67-d4d761fdedd3)
+
+- Code to navigate to the browser ,login to the LinkedIn page and enter user credentials
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/7ba373b1-5b4d-42eb-9c76-0898a2fcac67)
+
+- Enter the urls to be scrapped 
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/bbc2916d-9ec7-4e19-8b25-6c8671a61b29)
+
+- Profile scraping code 
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/6890394d-1e05-49f8-b364-b360aa8b3386)
+
+- Profile scraping code continuation
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/cf721d12-dc84-4bec-80da-54b27ccd8fd1)
+
+- Profile scraping code continuation
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/eec6f673-6f91-4656-9123-8faa8db72efe)
+
+- Profile scraping code continuation
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/4796b94e-36be-48d5-bc63-e34e07267a93)
+
+- Profile scraping code continuation
+![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/eee94911-10a1-48fc-b127-602677ff0b0f)
+
+
+
+</details>
 
  
 # Installation Guide👨‍💻

@@ -48,6 +48,7 @@ Done!:</br>
 
 
 - Importing the necessary Libraries
+
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/9520baef-1b89-43d7-80c6-eaa7cc00927c)
 
 - Function to introduce a random delay time and function to scrape a given Twitter profile
@@ -56,10 +57,11 @@ Done!:</br>
 - Wait for the tweets to load on the page
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/87fe000c-08c0-4645-9482-66c1bb180b77)
 
--Extracting the required number of tweets and their hashtags, getting user input and initializing the chrome web driver
+- Extracting the required number of tweets and their hashtags, getting user input and initializing the chrome web driver
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/d6af1471-b51b-4bfd-9189-d03499f2e64f)
 
 - Scraping each profile and saving the data to Excel file
+- 
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/0dfc79de-8323-4132-842e-ced01df5df02)
 
 

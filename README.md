@@ -16,32 +16,32 @@ The primary objective of this task is to establish a Target Audience List consis
 <details>
 <summary>Code Explanation</summary>
 <br>
--How to use
+-How to use </br>
 Setup:
 --> Ensure you have Python installed.
 
 --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
 
-Run the Script:
+Run the Script:</br>
 --> Execute the provided script in your terminal or IDE.
 
-Input Usernames:
+Input Usernames:</br>
 --> When prompted, enter the number of Twitter profiles you wish to scrape.
 
 --> Provide the usernames for the entered number of profiles.
 
-Login to Twitter:
+Login to Twitter:</br>
 --> A browser window (Chrome) will open, taking you to the Twitter login page.
 
 --> Manually log in to your Twitter account within the allotted 25 seconds.
 
-Wait:
+Wait:</br>
 --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
 
-Check the Output:
+Check the Output:</br>
 --> Once the script completes, find two Excel files in the script's directory: twitter_data.xlsx (contains profile information) and twitter_hashtags.xlsx (contains hashtags from the tweets).
 
-Done!:
+Done!:</br>
 --> Review the scraped data in the Excel file.
 
 --> If any data is not present, it will leave a blank space in that column.

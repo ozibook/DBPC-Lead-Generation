@@ -48,7 +48,6 @@ Done!:</br>
 
 
 - Importing the necessary Libraries
-
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/9520baef-1b89-43d7-80c6-eaa7cc00927c)
 
 - Function to introduce a random delay time and function to scrape a given Twitter profile
@@ -99,7 +98,7 @@ Done!:</br>
 - Profile scraping code continuation
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/4796b94e-36be-48d5-bc63-e34e07267a93)
 
-- Profile scraping code continuation
+- Code to see how many links have been completed and saving the scrapped data to a csv file
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/eee94911-10a1-48fc-b127-602677ff0b0f)
 
 

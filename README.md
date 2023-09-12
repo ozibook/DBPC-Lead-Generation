@@ -16,6 +16,37 @@ The primary objective of this task is to establish a Target Audience List consis
 <details>
 <summary>Code Explanation</summary>
 <br>
+-How to use
+Setup:
+--> Ensure you have Python installed.
+
+--> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+
+Run the Script:
+--> Execute the provided script in your terminal or IDE.
+
+Input Usernames:
+--> When prompted, enter the number of Twitter profiles you wish to scrape.
+
+--> Provide the usernames for the entered number of profiles.
+
+Login to Twitter:
+--> A browser window (Chrome) will open, taking you to the Twitter login page.
+
+--> Manually log in to your Twitter account within the allotted 25 seconds.
+
+Wait:
+--> The script will automatically visit each profile, scrape the desired information, and store it in memory.
+
+Check the Output:
+--> Once the script completes, find two Excel files in the script's directory: twitter_data.xlsx (contains profile information) and twitter_hashtags.xlsx (contains hashtags from the tweets).
+
+Done!:
+--> Review the scraped data in the Excel file.
+
+--> If any data is not present, it will leave a blank space in that column.
+
+
 - To install the packages silently
  
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/96fabda5-91cc-4177-8e64-93380a49cf1a)
@@ -26,20 +57,6 @@ The primary objective of this task is to establish a Target Audience List consis
  - Remove Duplicates
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/36bd39e5-e8bf-4b93-b2f6-023bba952be9)
 
- - Creating a List of Links
-![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/be985c85-7956-47fe-9260-3c1b716284e7)
-
- - For entering how many links to enter in one chunk
-![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/6196be46-50a3-4ad7-820e-e5d3e7d270a7)
-
- - Run for log in with spoof account
-![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/b2e9347c-4072-447d-9d9d-52aa49893a39)
-   
- - Mention the chunk number to run the data extraction
-![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/4a73a732-07d3-4601-8730-8113c8fce108)
-
- - Mention how much links from start you want to comment out
-![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/093dbc0c-288c-436c-913d-fba2a158a6d3)
 
 </details>
  

@@ -68,7 +68,7 @@ Done!:</br>
 
 
 </details>
- 
+___
 
 **2. Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb**
 - Code file for scraping linkedin profile data and related metrices.

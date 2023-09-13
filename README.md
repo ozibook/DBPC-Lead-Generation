@@ -18,32 +18,32 @@ The primary objective of this task is to establish a Target Audience List consis
       Code Explanation👨‍💻
      </summary>
 <br>
--How to use </br>
+**How to use:** </br>
 Setup:
 --> Ensure you have Python installed.
 
 --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
 
-Run the Script:</br>
+**Run the Script:**</br>
 --> Execute the provided script in your terminal or IDE.
 
-Input Usernames:</br>
+**Input Usernames:**</br>
 --> When prompted, enter the number of Twitter profiles you wish to scrape.
 
 --> Provide the usernames for the entered number of profiles.
 
-Login to Twitter:</br>
+**Login to Twitter:**</br>
 --> A browser window (Chrome) will open, taking you to the Twitter login page.
 
 --> Manually log in to your Twitter account within the allotted 25 seconds.
 
-Wait:</br>
+**Wait:**</br>
 --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
 
-Check the Output:</br>
+**Check the Output:**</br>
 --> Once the script completes, find two Excel files in the script's directory: twitter_data.xlsx (contains profile information) and twitter_hashtags.xlsx (contains hashtags from the tweets).
 
-Done!:</br>
+**Done!:**</br>
 --> Review the scraped data in the Excel file.
 
 --> If any data is not present, it will leave a blank space in that column.
@@ -76,7 +76,36 @@ Done!:</br>
 <details>
 <summary>Code Explanation👨‍💻</summary>
 <br>
+**How to use:** </br>
+Setup:
+--> Ensure you have Python installed.
 
+--> Install the required libraries using pip (BeautifulSoup, pandas, webdriver_manager, etc.).
+
+**Run the Script:**</br>
+--> Execute the provided script in your terminal or IDE.
+
+**Input Usernames:**</br>
+--> When prompted, enter the username and password for LinkedIn account with which you want to scrape.
+
+**Login to LinkedIn:**</br>
+--> A browser window (Chrome) will open, taking you to the LinkedIn login page.
+
+--> Your details are entered into the LinkedIn login page.
+
+**URLs:**</br>
+--> Enter the URLs that are to be scraped in a list format.
+
+**Wait:**</br>
+--> The script will automatically visit each profile url, scrape the desired information, and store it in memory.
+
+**Check the Output:**</br>
+--> Once the script completes, find a Excel file in the script's directory
+
+**Done!:**</br>
+--> Review the scraped data in the Excel file.
+
+--> If any data is not present, it will leave a blank space in that column.
 
 - Importing the necessary Libraries
 
@@ -104,7 +133,7 @@ Done!:</br>
   
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/4796b94e-36be-48d5-bc63-e34e07267a93)
 
-- Code to see how many links have been completed and saving the scrapped data to a csv file
+- Code to see how many links have been completed and saving the scrapped data to a excel file
 ![image](https://github.com/ozibook/DBPC-Lead-Generation/assets/144370840/eee94911-10a1-48fc-b127-602677ff0b0f)
 
 

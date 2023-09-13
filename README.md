@@ -18,8 +18,9 @@ The primary objective of this task is to establish a Target Audience List consis
       Code Explanation👨‍💻
      </summary>
 <br>
-**How to use: **
-     </br>
+     
+**How to use: ** </br>
+     
 Setup:
 
 --> Ensure you have Python installed.
@@ -78,6 +79,7 @@ Setup:
 <details>
 <summary>Code Explanation👨‍💻</summary>
 <br>
+     
 **How to use:** </br>
 Setup:
 --> Ensure you have Python installed.

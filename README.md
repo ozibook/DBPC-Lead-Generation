@@ -14,8 +14,9 @@ The primary objective of this task is to establish a Target Audience List consis
 - Code file for scraping twitter profiles
 - [Go to File↗️](https://github.com/ozibook/DBPC-Lead-Generation/blob/main/Twitter_Profile_Scrapper_RohitPani.ipynb)
 <details>
-<summary>
-      **Code Explanation**👨‍💻</summary>
+     <summary>
+      Code Explanation👨‍💻
+     </summary>
 <br>
 -How to use </br>
 Setup:

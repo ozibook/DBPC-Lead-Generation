@@ -10,7 +10,7 @@ Understanding and engaging with our target audience is vital for addressing thei
 The primary objective of this task is to establish a Target Audience List consisting of potential clients and cold leads. These profiles will serve as the foundation for our efforts to engage with them and eventually convert them into warm leads through personalized content.
 
 ## File Details 📁 
-###**1. Twitter_Profile_Scrapper_RohitPani**
+### **1. Twitter_Profile_Scrapper_RohitPani**
 - Code file for scraping twitter profiles
 - [Go to File↗️](https://github.com/ozibook/DBPC-Lead-Generation/blob/main/Twitter_Profile_Scrapper_RohitPani.ipynb)
 <details>
@@ -70,7 +70,7 @@ Setup:
 
 </details>
 
-###**2. Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb**
+### **2. Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb**
 - Code file for scraping linkedin profile data and related metrices.
 - [Go to File↗️](https://github.com/ozibook/DBPC-Lead-Generation/blob/main/Linkedin_Profile_Scrapper_Ozigen_Updated_dbpc.ipynb)
   

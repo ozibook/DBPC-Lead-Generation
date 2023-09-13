@@ -19,10 +19,8 @@ The primary objective of this task is to establish a Target Audience List consis
      </summary>
 <br>
      
-**How to use: ** </br>
-     
+**How to use:** </br>
 Setup:
-
 --> Ensure you have Python installed.
 
 --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
